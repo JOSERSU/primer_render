@@ -1,0 +1,5 @@
+com\upiiz\promotions\PromotionsApplication.class
+com\upiiz\promotions\services\PromotionsService.class
+com\upiiz\promotions\models\Promotion.class
+com\upiiz\promotions\controllers\PromotionsController.class
+com\upiiz\promotions\repository\PromotionsRepository.class
